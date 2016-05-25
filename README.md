@@ -3,7 +3,7 @@ A 24 Hr clock with single needle
 
 #How to install:
 1. Download the bundle "dclock.wdgt"
-2. Double click and install- it will be added to ~/Library/widget
+2. Double click and install- it will be added to ~/Library/Widgets
 3. Go to dashboard and add new widget with (+) button
 4. Select "dclock" from the list
 
